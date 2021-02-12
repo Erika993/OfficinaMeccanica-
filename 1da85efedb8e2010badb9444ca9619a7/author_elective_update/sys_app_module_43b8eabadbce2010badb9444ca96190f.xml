@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="OfficinaMeccanica">6b2a12fadb8e2010badb9444ca9619dd</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Amministraziones</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_570155_officinam_amministrazione</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_570155_officinam.amministrazione_user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-04 14:46:50</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>43b8eabadbce2010badb9444ca96190f</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Amministrazione</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="OfficinaMeccanica" source="x_570155_officinam">1da85efedb8e2010badb9444ca9619a7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="OfficinaMeccanica">1da85efedb8e2010badb9444ca9619a7</sys_scope>
+        <sys_update_name>sys_app_module_43b8eabadbce2010badb9444ca96190f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-04 15:21:13</sys_updated_on>
+        <timeline_page/>
+        <title>Amministrazione</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="OfficinaMeccanica">1da85efedb8e2010badb9444ca9619a7</application>
+        <file_path/>
+        <instance_id>4ae28246db659b0452e3f70fbf96197c</instance_id>
+        <instance_name>dev56803</instance_name>
+        <name>sys_app_module_43b8eabadbce2010badb9444ca96190f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="OfficinaMeccanica">6b2a12fadb8e2010badb9444ca9619dd</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Amministraziones</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_570155_officinam_amministrazione</name><order/><override_menu_roles>false</override_menu_roles><query/><report/><roles>x_570155_officinam.amministrazione_user</roles><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-02-04 14:46:50</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>43b8eabadbce2010badb9444ca96190f</sys_id><sys_mod_count>2</sys_mod_count><sys_name>Amministrazione</sys_name><sys_overrides/><sys_package display_value="OfficinaMeccanica" source="x_570155_officinam">1da85efedb8e2010badb9444ca9619a7</sys_package><sys_policy/><sys_scope display_value="OfficinaMeccanica">1da85efedb8e2010badb9444ca9619a7</sys_scope><sys_update_name>sys_app_module_43b8eabadbce2010badb9444ca96190f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-02-04 15:21:13</sys_updated_on><timeline_page/><title>Amministrazione</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>1960464692</payload_hash>
+        <record_name>Amministrazione</record_name>
+        <reverted_from/>
+        <source>d1a85efedb8e2010badb9444ca9619aa</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-04 15:21:13</sys_created_on>
+        <sys_id>3e90fefedbce2010badb9444ca96195f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1776da2114b0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-04 15:21:13</sys_updated_on>
+        <type>Module</type>
+        <update_guid>b690fefe22ce2010fb4a14bdd20bbb5f</update_guid>
+        <update_guid_history>b690fefe22ce2010fb4a14bdd20bbb5f:1960464692,438fe6fe31ce20109e5ee8020d13f992:-1805310017,cbb8eaba96ce20105cb36f1405043411:1166045893</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Amministrazione">bf52b672db026010badb9444ca96195b</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-04 15:28:57</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>362ec9e418ba471f9c2ce40d89260f49</sys_id>
+        <sys_metadata>43b8eabadbce2010badb9444ca96190f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Amministrazione</sys_name>
+        <sys_package display_value="OfficinaMeccanica" source="x_570155_officinam">1da85efedb8e2010badb9444ca9619a7</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="OfficinaMeccanica">1da85efedb8e2010badb9444ca9619a7</sys_scope>
+        <sys_scope_delete display_value="">1c9875a3d24e40118c14ca06e36c1e91</sys_scope_delete>
+        <sys_update_name>sys_app_module_43b8eabadbce2010badb9444ca96190f</sys_update_name>
+        <sys_update_version display_value="sys_app_module_43b8eabadbce2010badb9444ca96190f">3e90fefedbce2010badb9444ca96195f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-04 15:28:57</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

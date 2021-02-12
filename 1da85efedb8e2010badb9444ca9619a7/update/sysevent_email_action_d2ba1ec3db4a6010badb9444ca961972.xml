@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sysevent_email_action">
+    <sysevent_email_action action="INSERT_OR_UPDATE">
+        <action_insert>false</action_insert>
+        <action_update>false</action_update>
+        <active>true</active>
+        <advanced_condition/>
+        <affected_field_on_event/>
+        <category display_value="Uncategorized" name="Uncategorized">c97d83137f4432005f58108c3ffa917a</category>
+        <collection>x_570155_officinam_magazzino</collection>
+        <condition/>
+        <content_type>text/html</content_type>
+        <default_interval/>
+        <description/>
+        <digest_from/>
+        <digest_html/>
+        <digest_reply_to/>
+        <digest_separator_html><![CDATA[<p><br /></p>
+<hr />
+<p><br /></p>]]></digest_separator_html>
+        <digest_separator_text><![CDATA[\n--------------------------------------------------------------------------------\n]]></digest_separator_text>
+        <digest_subject/>
+        <digest_template/>
+        <digest_text/>
+        <digestable>false</digestable>
+        <event_name>x_570155_officinam.notificaFornitore</event_name>
+        <event_parm_1>false</event_parm_1>
+        <event_parm_2>false</event_parm_2>
+        <exclude_delegates>false</exclude_delegates>
+        <force_delivery>false</force_delivery>
+        <from/>
+        <generation_type>event</generation_type>
+        <importance/>
+        <include_attachments>false</include_attachments>
+        <item>event.parm1</item>
+        <item_table/>
+        <mandatory>false</mandatory>
+        <message/>
+        <message_html><![CDATA[<p>Gentile ${fornitore}</p>
+<p>Richiesta Ordine Numero: ${u_string_3} in data ${u_glide_date_time_4}</p>
+<p>Pezzo di Ricambio:${u_string_2}<br /></p>
+<p>Quantit&agrave;:${quantiata}</p>
+<p>Clicchi qui ${URI} per aprire la scheda di richiesta dell'ordine<br /></p>
+<p><br /></p>
+<p>Saluti&nbsp;</p>
+<p>Reparto magazzino</p>
+<p>Officina Meccanica S.r.L.</p>]]></message_html>
+        <message_list/>
+        <message_text/>
+        <name>Notifica Forniotre </name>
+        <omit_watermark>false</omit_watermark>
+        <order>100</order>
+        <push_message_only>false</push_message_only>
+        <recipient_fields>fornitore</recipient_fields>
+        <recipient_groups/>
+        <recipient_users>0a826bf03710200044e0bfc8bcbe5d7a,erika.rendina@gmail.com</recipient_users>
+        <reply_to/>
+        <send_self>true</send_self>
+        <sms_alternate/>
+        <style/>
+        <subject>Richiesta Ordine ${u_string_3}</subject>
+        <subscribable>false</subscribable>
+        <sys_class_name>sysevent_email_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-05 08:27:24</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>d2ba1ec3db4a6010badb9444ca961972</sys_id>
+        <sys_mod_count>14</sys_mod_count>
+        <sys_name>Notifica Forniotre </sys_name>
+        <sys_overrides/>
+        <sys_package display_value="OfficinaMeccanica" source="x_570155_officinam">1da85efedb8e2010badb9444ca9619a7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="OfficinaMeccanica">1da85efedb8e2010badb9444ca9619a7</sys_scope>
+        <sys_update_name>sysevent_email_action_d2ba1ec3db4a6010badb9444ca961972</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-08 21:44:23</sys_updated_on>
+        <sys_version>2</sys_version>
+        <template/>
+        <type>email</type>
+        <weight>0</weight>
+    </sysevent_email_action>
+</record_update>

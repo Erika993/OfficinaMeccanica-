@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="xxx" table="x_570155_officinam_amministrazione" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>xxx</element>
+            <name>x_570155_officinam_amministrazione</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-09 00:49:58</sys_created_on>
+            <sys_id>b82915dcdb522010badb9444ca961941</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>xxx</sys_name>
+            <sys_package display_value="OfficinaMeccanica" source="x_570155_officinam">1da85efedb8e2010badb9444ca9619a7</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="OfficinaMeccanica">1da85efedb8e2010badb9444ca9619a7</sys_scope>
+            <sys_update_name>sys_choice_x_570155_officinam_amministrazione_xxx</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-09 00:49:58</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>xxx</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Aperto</label>
+            <language>en</language>
+            <name>x_570155_officinam_amministrazione</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-09 00:49:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>702915dcdb522010badb9444ca961941</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-09 00:49:58</sys_updated_on>
+            <value>1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>xxx</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Chiuso</label>
+            <language>en</language>
+            <name>x_570155_officinam_amministrazione</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-09 00:49:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>342915dcdb522010badb9444ca961943</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-09 00:49:58</sys_updated_on>
+            <value>2</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

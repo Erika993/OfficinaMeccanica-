@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Magazzino" max_length="40" name="x_570155_officinam_magazzino" sizeclass="2" type="collection">
+        <element attributes="encode_utf8=false" label="Fornitore" max_length="32" name="fornitore" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Garanzia" max_length="40" name="merce" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Si" sequence="0" value="1"/>
+                <element inactive_on_update="false" label="No" sequence="1" value="2"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Quantita" max_length="40" name="quantiata" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Data Order" max_length="40" name="u_glide_date_time_4" type="glide_date_time"/>
+        <element choice="1" label="Stato" max_length="40" name="u_integer_1" type="integer">
+            <choice>
+                <element inactive_on_update="false" label="In Lavorazione" sequence="0" value="1"/>
+                <element inactive="true" inactive_on_update="true" label="Invia Ordine" sequence="0" value="2"/>
+                <element inactive_on_update="false" label="Invia Ordine" sequence="1" value="3"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Soglia" max_length="40" name="u_soglia" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="E-mail Fornitore" max_length="40" name="u_string_1" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Pezzo di Ricambio" max_length="40" name="u_string_2" type="string">
+            <choice>
+                <element inactive="true" inactive_on_update="true" label="Garanzia1" sequence="0" value="3"/>
+                <element inactive_on_update="false" label="In Garanzia" sequence="0" value="1"/>
+                <element inactive_on_update="false" label="Di Consumo" sequence="1" value="2"/>
+                <element inactive="true" inactive_on_update="true" label="Garanzia 1" sequence="1" value="4"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Number" max_length="40" name="u_string_3" type="string"/>
+        <index name="index">
+            <element name="fornitore"/>
+        </index>
+    </element>
+</database>

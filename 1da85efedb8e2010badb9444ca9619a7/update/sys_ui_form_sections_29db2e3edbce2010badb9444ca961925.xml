@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="29db2e3edbce2010badb9444ca961925" sys_domain="global" table="x_570155_officinam_magazzino" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-04 15:00:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bddb2e3edbce2010badb9444ca961927</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_570155_officinam_magazzino" name="x_570155_officinam_magazzino" sys_domain="global" view="Default view">29db2e3edbce2010badb9444ca961925</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_570155_officinam_magazzino" sys_domain="global" view="Default view">bb7ad272dbce2010badb9444ca961909</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-04 15:00:24</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-05 08:40:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>148e9687db4a6010badb9444ca961917</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_570155_officinam_magazzino" name="x_570155_officinam_magazzino" sys_domain="global" view="Default view">29db2e3edbce2010badb9444ca961925</sys_ui_form>
+            <sys_ui_section caption="Richiesta Fornitore" display_value="Richiesta Fornitore" name="x_570155_officinam_magazzino" sys_domain="global" view="Default view">588e9687db4a6010badb9444ca961914</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-05 08:40:38</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_570155_officinam_magazzino</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-04 15:00:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>29db2e3edbce2010badb9444ca961925</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_570155_officinam_magazzino</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="OfficinaMeccanica" source="x_570155_officinam">1da85efedb8e2010badb9444ca9619a7</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="OfficinaMeccanica">1da85efedb8e2010badb9444ca9619a7</sys_scope>
+            <sys_update_name>sys_ui_form_sections_29db2e3edbce2010badb9444ca961925</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-04 15:00:24</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

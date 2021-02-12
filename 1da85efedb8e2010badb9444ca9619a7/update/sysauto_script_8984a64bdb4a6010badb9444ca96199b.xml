@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sysauto_script">
+    <sysauto_script action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <business_calendar/>
+        <condition/>
+        <conditional>false</conditional>
+        <entered_time>1970-01-01 09:00:00</entered_time>
+        <name>NotificaFornitore</name>
+        <offset/>
+        <offset_type/>
+        <run_as display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</run_as>
+        <run_as_tz/>
+        <run_dayofmonth>1</run_dayofmonth>
+        <run_dayofweek>1</run_dayofweek>
+        <run_period/>
+        <run_start>2021-02-05 09:06:53</run_start>
+        <run_time>1970-01-01 17:00:00</run_time>
+        <run_type>daily</run_type>
+        <script><![CDATA[var rightNow = new GlideDateTime();
+
+// Query the database for NewTicketAmministrazione records with Due date field values Now
+// State field value of Open.
+var notificaF = new GlideRecord('x_570155_officinam_magazzino');
+notificaF.addQuery('u_glide_date_time_4','<=',rightNow);
+notificaF.addQuery('u_integer_1','!=',1);
+
+notificaF.query();
+// Write a log message for each overdue TicketAmministrazione record
+// Generate an event for each overdue TicketAmministrazione record
+while(notificaF.next()){
+	gs.info("Notifica Forniotre = " + notificaF.u_string_1);	gs.eventQueue('x_570155_officinam.notificaFornitore',notificaF,notificaF.u_string_1,
+    gs.getUserName());
+}
+]]></script>
+        <sys_class_name>sysauto_script</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-05 09:24:12</sys_created_on>
+        <sys_id>8984a64bdb4a6010badb9444ca96199b</sys_id>
+        <sys_mod_count>9</sys_mod_count>
+        <sys_name>NotificaFornitore</sys_name>
+        <sys_package display_value="OfficinaMeccanica" source="x_570155_officinam">1da85efedb8e2010badb9444ca9619a7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="OfficinaMeccanica">1da85efedb8e2010badb9444ca9619a7</sys_scope>
+        <sys_update_name>sysauto_script_8984a64bdb4a6010badb9444ca96199b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-08 21:53:45</sys_updated_on>
+        <time_zone/>
+        <upgrade_safe>false</upgrade_safe>
+    </sysauto_script>
+</record_update>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Richiesta Fornitore" section_id="588e9687db4a6010badb9444ca961914" sys_domain="global" table="x_570155_officinam_magazzino" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>fornitore</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-05 08:40:39</sys_created_on>
+            <sys_id>a48e9687db4a6010badb9444ca96199b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Richiesta Fornitore" display_value="Richiesta Fornitore" name="x_570155_officinam_magazzino" sys_domain="global" view="Default view">588e9687db4a6010badb9444ca961914</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-05 08:40:39</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-05 08:40:39</sys_created_on>
+            <sys_id>2c8e9687db4a6010badb9444ca96199b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Richiesta Fornitore" display_value="Richiesta Fornitore" name="x_570155_officinam_magazzino" sys_domain="global" view="Default view">588e9687db4a6010badb9444ca961914</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-05 08:40:39</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_string_1</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-05 08:40:39</sys_created_on>
+            <sys_id>a08e9687db4a6010badb9444ca96199c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Richiesta Fornitore" display_value="Richiesta Fornitore" name="x_570155_officinam_magazzino" sys_domain="global" view="Default view">588e9687db4a6010badb9444ca961914</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-05 08:40:39</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Richiesta Fornitore</caption>
+            <header>false</header>
+            <name>x_570155_officinam_magazzino</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-05 08:40:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>588e9687db4a6010badb9444ca961914</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_570155_officinam_magazzino</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="OfficinaMeccanica" source="x_570155_officinam">1da85efedb8e2010badb9444ca9619a7</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="OfficinaMeccanica">1da85efedb8e2010badb9444ca9619a7</sys_scope>
+            <sys_update_name>sys_ui_section_588e9687db4a6010badb9444ca961914</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-05 08:40:38</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

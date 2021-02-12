@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Analisi Meccanico Incaricato" section_id="4209764bdb8a6010badb9444ca9619f3" sys_domain="global" table="x_570155_officinam_amministrazione" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_string_7</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-09 17:11:50</sys_created_on>
+            <sys_id>73d974a4db522010badb9444ca961944</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Analisi Meccanico Incaricato" display_value="Analisi Meccanico Incaricato" name="x_570155_officinam_amministrazione" sys_domain="global" view="Default view">4209764bdb8a6010badb9444ca9619f3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-09 17:11:50</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_reference_1</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-09 17:11:50</sys_created_on>
+            <sys_id>f7d974a4db522010badb9444ca961944</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Analisi Meccanico Incaricato" display_value="Analisi Meccanico Incaricato" name="x_570155_officinam_amministrazione" sys_domain="global" view="Default view">4209764bdb8a6010badb9444ca9619f3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-09 17:11:50</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-09 17:11:50</sys_created_on>
+            <sys_id>7bd974a4db522010badb9444ca961944</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Analisi Meccanico Incaricato" display_value="Analisi Meccanico Incaricato" name="x_570155_officinam_amministrazione" sys_domain="global" view="Default view">4209764bdb8a6010badb9444ca9619f3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-09 17:11:50</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>magazziniere</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-09 17:11:50</sys_created_on>
+            <sys_id>fbd974a4db522010badb9444ca961944</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Analisi Meccanico Incaricato" display_value="Analisi Meccanico Incaricato" name="x_570155_officinam_amministrazione" sys_domain="global" view="Default view">4209764bdb8a6010badb9444ca9619f3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-09 17:11:50</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_string_10</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-09 17:11:50</sys_created_on>
+            <sys_id>7fd974a4db522010badb9444ca961944</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Analisi Meccanico Incaricato" display_value="Analisi Meccanico Incaricato" name="x_570155_officinam_amministrazione" sys_domain="global" view="Default view">4209764bdb8a6010badb9444ca9619f3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-09 17:11:50</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>xxx</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-09 17:11:50</sys_created_on>
+            <sys_id>ffd974a4db522010badb9444ca961944</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Analisi Meccanico Incaricato" display_value="Analisi Meccanico Incaricato" name="x_570155_officinam_amministrazione" sys_domain="global" view="Default view">4209764bdb8a6010badb9444ca9619f3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-09 17:11:50</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-09 17:11:50</sys_created_on>
+            <sys_id>73d974a4db522010badb9444ca961945</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Analisi Meccanico Incaricato" display_value="Analisi Meccanico Incaricato" name="x_570155_officinam_amministrazione" sys_domain="global" view="Default view">4209764bdb8a6010badb9444ca9619f3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-09 17:11:50</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_string_9</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-09 17:11:50</sys_created_on>
+            <sys_id>f3d974a4db522010badb9444ca961945</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Analisi Meccanico Incaricato" display_value="Analisi Meccanico Incaricato" name="x_570155_officinam_amministrazione" sys_domain="global" view="Default view">4209764bdb8a6010badb9444ca9619f3</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-09 17:11:50</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Analisi Meccanico Incaricato</caption>
+            <header>false</header>
+            <name>x_570155_officinam_amministrazione</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-05 10:36:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4209764bdb8a6010badb9444ca9619f3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_570155_officinam_amministrazione</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="OfficinaMeccanica" source="x_570155_officinam">1da85efedb8e2010badb9444ca9619a7</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="OfficinaMeccanica">1da85efedb8e2010badb9444ca9619a7</sys_scope>
+            <sys_update_name>sys_ui_section_4209764bdb8a6010badb9444ca9619f3</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-05 10:36:32</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
